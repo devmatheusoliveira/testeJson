@@ -1,18 +1,18 @@
 {
     "registro":[
           {
-          "username":"username",
-          "nome":"nome",
-          "sobrenome":"",
-          "senha":"senha",
-          "idade":10
+          "username":"usuario1",
+          "nome":"Matheus",
+          "sobrenome":"Oliveira",
+          "senha":"123456",
+          "idade":20
           }
           ,
           {
           "username":"legoTeste",
-          "nome":"nome",
-          "sobrenome":"",
-          "senha":"senha",
+          "nome":"Lego",
+          "sobrenome":" da Silva",
+          "senha":"6543210",
           "idade":10
           }
         ]
