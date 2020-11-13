@@ -1,0 +1,19 @@
+{
+    "registro":[
+          {
+          "username":"username",
+          "nome":"nome",
+          "sobrenome":"",
+          "senha":"senha",
+          "idade":10
+          }
+          ,
+          {
+          "username":"legoTeste",
+          "nome":"nome",
+          "sobrenome":"",
+          "senha":"senha",
+          "idade":10
+          }
+        ]
+}
