@@ -1,19 +1,13 @@
 {
-    "registro":[
+    "estabelecimento":[
           {
-          "username":"usuario1",
-          "nome":"Matheus",
-          "sobrenome":"Oliveira",
-          "senha":"123456",
-          "idade":20
-          }
-          ,
-          {
-          "username":"legoTeste",
-          "nome":"Lego",
-          "sobrenome":" da Silva",
-          "senha":"6543210",
-          "idade":10
+              "titulo":"TÊNIS MASCULINO CANO MÉDIO VIKO",
+              "reference":"552609720",
+              "cores":"white",
+              "isDisponible": true,
+              "link": "https://www.lojasrenner.com.br/p/tenis-masculino-cano-medio-viko/-/A-552609586-br.lr?sku=552609720",
+              "imagens": "https://img.lojasrenner.com.br/item/552609771/large/1.jpg",
+              "detalhes": "Tênis Masculino, Cano Médio estilo casual, perfeito para a rotina diária."
           }
         ]
 }
