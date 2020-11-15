@@ -1,7 +1,7 @@
 {
     "ListaDeLojas":[
           { 
-              "marca":"Lojas Renner",
+              "marca":"LOJAS RENNER",
               "logomarca":"https://github.com/matheusOliveira99/testeJson/blob/main/logomarca.png?raw=true",
               "estrela": 5.0
           }
