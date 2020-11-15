@@ -3,13 +3,13 @@
           { 
               "marca":"Lojas Renner",
               "logomarca":"https://i.pinimg.com/originals/86/6d/4a/866d4aecd5c1be48af43d477e184db37.png",
-              "estrela": 5.0,
+              "estrela": 5.0
           }
         ,
           { 
               "marca":"Loja 2",
               "logomarca":"https://i.pinimg.com/originals/86/6d/4a/866d4aecd5c1be48af43d477e184db37.png",
-              "estrela": 2.5,
+              "estrela": 2.5
           }
         ]
 }
