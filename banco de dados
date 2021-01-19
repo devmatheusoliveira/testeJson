@@ -1,6 +1,16 @@
 {
-  dados:
-  {
-    
-  }
+    "dados":
+    [
+        {
+            "id":"@JovemTestando",
+            "login":"teste@testando.com",
+            "senha":"123456"
+        }
+        ,
+        { 
+            "id":"@legueta",
+            "login":"legoxd@null.com",
+            "senha":"6543210"
+        }  
+   ]
 }
