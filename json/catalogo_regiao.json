@@ -1,0 +1,76 @@
+{
+    "lista_regiao":
+    [
+        {
+            "tag":"Nordeste",
+            "lista_rotas":
+            [
+                {
+                    "id": 1,
+                    "rota": "Rota do Cangaço e Lampião",
+                    "capa": "linkDaImagem"
+                }
+                ,
+                {
+                    "id": 2,
+                    "rota": "Caminhos do São Francisco",
+                    "capa": "linkDaImagem"
+                }
+                ,
+                {
+                    "id": 3,
+                    "rota": "Costa do Cacau",
+                    "capa": "linkDaImagem"
+                }
+            ]
+        }
+        ,
+        {
+            "tag":"Centro-Oeste",
+            "lista_rotas":
+            [
+                {
+                    "id": 4,
+                    "rota": "Chapada dos Veadeiros",
+                    "capa": "linkDaImagem"
+                }
+                ,
+                {
+                    "id": 5,
+                    "rota": "Vale da Serra da Mesa",
+                    "capa": "linkDaImagem"
+                }
+                ,
+                {
+                    "id": 6,
+                    "rota": "Pegada do Cerrado",
+                    "capa": "linkDaImagem"
+                }
+            ]
+        }
+        ,
+        {
+            "tag":"Sul",
+            "lista_rotas":
+            [
+                {
+                    "id": 7,
+                    "rota": "Rota dos Vinhedos",
+                    "capa": "linkDaImagem"
+                }
+                ,
+                {
+                    "id": 8,
+                    "rota": "Serra do Rio do Castro",
+                    "capa": "linkDaImagem"
+                }
+                ,
+                {
+                    "id": 9,
+                    "rota": "Rota Vale Europeu",
+                    "capa": "linkDaImagem"
+                }
+            ]
+        }
+    ]
+}
